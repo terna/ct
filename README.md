@@ -4,7 +4,7 @@ For infos write to pietro.terna@unito.it
 
 **Temporary material**
 
-In the folder "FreeDOS & CT" you can find an image of hdisk for [https://www.virtualbox.org](https://www.virtualbox.org) (file FreeDOS1.2.vhd) and an image of floppy disk containing CT (file CT_floppy.img).
+In the folder [FreeDOS & CTs](./FreeDOS & CTs) you can find an image of hdisk for [https://www.virtualbox.org](https://www.virtualbox.org) (file FreeDOS1.2.vhd) and an image of floppy disk containing CT (file CT_floppy.img).
 
 FreeDOS is at [http://www.freedos.org](http://www.freedos.org).
 
