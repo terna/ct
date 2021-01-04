@@ -10,4 +10,4 @@ FreeDOS is at [http://www.freedos.org](http://www.freedos.org).
 
 The virtual floppy has been created using the empty one that you can find at [https://forums.virtualbox.org/viewtopic.php?f=3&t=68039](https://forums.virtualbox.org/viewtopic.php?f=3&t=68039).
 
-Alternatively, you can run the code contained in the main folder using a [DOS emulator](https://www.dosbox.com/download.php?main=1).
+Alternatively, you can run the code contained in the main folder using a [DOS emulator](https://www.dosbox.com/download.php?main=1). The file FreeDOS1.2.ova is ready for [Virtual Box](https://www.virtualbox.org).
